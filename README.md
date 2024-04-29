@@ -2,7 +2,7 @@
 
 Aqui temos **2 opções de conta**:
 
-1 - Verificar qual o número triangular numa determinada posição
+1 - Verificar qual o número triangular numa determinada posição\n
 2 - Verificar se um número é triangular
 
 Resumindo, é um código que analisa um número e, de acordo com as opções, diz (1) qual o número triangular que está na posição digitada ou (2) se o número é triangular ou não e qual a sua posição.
