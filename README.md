@@ -1,6 +1,6 @@
 # O que este código faz?
 
-Aqui temos *2 opções de conta*:
+Aqui temos **2 opções de conta**:
 
 1 - Verificar qual o número triangular numa determinada posição
 2 - Verificar se um número é triangular
