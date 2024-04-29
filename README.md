@@ -15,3 +15,8 @@ Para rodá-lo, clique com o botão direito com mouse em cima do arquivo _verific
 
 ![image](https://github.com/LeRodrigues2005/number_validate/assets/97632543/3c19d88e-9335-4408-8032-09dfb4aa8509)
 
+A tela inicial após rodar o código deve ser a seguinte:
+
+![image](https://github.com/LeRodrigues2005/number_validate/assets/97632543/ebfe1663-b065-489e-b9dd-4add67e0c014)
+
+
