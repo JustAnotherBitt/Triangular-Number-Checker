@@ -1,6 +1,6 @@
 # O que este código faz?
 
-Aqui temos 2 opções de conta:
+Aqui temos *2 opções de conta*:
 
 1 - Verificar qual o número triangular numa determinada posição
 2 - Verificar se um número é triangular
@@ -9,6 +9,9 @@ Resumindo, é um código que analisa um número e, de acordo com as opções, di
 
 # Observações:
 
-O código foi feito na IDE PyCharm Community. Para rodá-lo, clique com o botão direito com mouse em cima do arquivo _verificacao_numero.py_ e selecione a seguinte opção:
+O código foi feito na IDE PyCharm Community. 
 
-![image](https://github.com/LeRodrigues2005/number_validate/assets/97632543/4659c857-b984-4263-9dd0-8db5ed66afa6)
+Para rodá-lo, clique com o botão direito com mouse em cima do arquivo _verificacao_numero.py_ e selecione a seguinte opção:
+
+![image](https://github.com/LeRodrigues2005/number_validate/assets/97632543/3c19d88e-9335-4408-8032-09dfb4aa8509)
+
