@@ -1,22 +1,45 @@
-# O que este código faz?
+# Triangular Number Checker
 
-Aqui temos **2 opções de conta**:
+## Description
+This Python program allows users to:
+- Find the triangular number at a given position.
+- Check if a given number is a triangular number.
 
-1 - Verificar qual o número triangular numa determinada posição<br />
-2 - Verificar se um número é triangular
+Triangular numbers follow the formula:
+\[ T_n = \frac{n(n+1)}{2} \]
+Where \( T_n \) is the \( n \)-th triangular number.
 
-Resumindo, é um código que analisa um número e, de acordo com as opções, diz (1) qual o número triangular que está na posição digitada ou (2) se o número é triangular ou não e qual a sua posição.
+## Features
+- **Check a triangular number's position**: Enter a position, and the program returns the corresponding triangular number.
+- **Verify if a number is triangular**: Input a number, and the program determines if it belongs to the triangular number sequence.
+- **Interactive menu**: The user selects options through a simple interface.
 
-# Observações:
+## Usage
+1. Run the Python script.
+2. Choose one of the following options:
+   - `1` to check the triangular number in a specific position.
+   - `2` to verify if a given number is triangular.
+   - `3` to exit the program.
+3. Follow the on-screen instructions.
 
-O código foi feito na IDE PyCharm Community. 
+## Example Output
+```
+What do you want to do?
 
-Para rodá-lo, clique com o botão direito com mouse em cima do arquivo _verificacao_numero.py_ e selecione a seguinte opção:
+    1 - Check which triangular number is in a given position
+    2 - Check if a number is triangular
+    3 - Exit the program
 
-![image](https://github.com/LeRodrigues2005/number_validate/assets/97632543/3c19d88e-9335-4408-8032-09dfb4aa8509)
+Option: 2
+Enter a number to check if it is triangular: 703
+703 is a triangular number and is in position 37.
+```
 
-A tela inicial após rodar o código deve ser a seguinte:
+## Requirements
+- Python 3.x
 
-![image](https://github.com/LeRodrigues2005/number_validate/assets/97632543/ebfe1663-b065-489e-b9dd-4add67e0c014)
-
-
+## Running the Program
+Execute the script with:
+```sh
+python triangular_number_checker.py
+```
