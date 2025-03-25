@@ -10,7 +10,7 @@ Triangular numbers follow the formula:
 <img src="https://github.com/user-attachments/assets/104b6b08-a655-4170-a318-3afe878a7dbd" alt="" width="100">
 </p>
 
-Where \( T_n \) is the \( n \)-th triangular number.
+Where \( Tn \) is the \( n \)-th triangular number.
 
 ## Features
 - **Check a triangular number's position**: Enter a position, and the program returns the corresponding triangular number.
