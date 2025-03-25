@@ -6,7 +6,10 @@ This Python program allows users to:
 - Check if a given number is a triangular number.
 
 Triangular numbers follow the formula:
-\[ T_n = \frac{n(n+1)}{2} \]
+<p align="center">
+<img src="https://github.com/user-attachments/assets/104b6b08-a655-4170-a318-3afe878a7dbd" alt="" width="100">
+</p>
+
 Where \( T_n \) is the \( n \)-th triangular number.
 
 ## Features
