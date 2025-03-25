@@ -6,7 +6,7 @@ This Python program allows users to:
 - Check if a given number is a triangular number.
 
 Triangular numbers follow the formula:
-<p align="center">
+<p align="left">
 <img src="https://github.com/user-attachments/assets/104b6b08-a655-4170-a318-3afe878a7dbd" alt="" width="100">
 </p>
 
